@@ -1,4 +1,4 @@
-# Regression with Keras neural newtworks
+# Regression with Keras neural networks
 
 # This is the final project in Introduction to Deep Learning & Neural Networks with Keras course by IBM
 
